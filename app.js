@@ -8,6 +8,9 @@ e via dicendo…
 Registrare il router dentro app.js con il prefisso posts/.
 */
 
+// Provare a restituire la lista dei post dalla rotta index, in formato json
+// Provare a restituire un singolo post dalla rotta show, sempre in formato json
+
 const express = require("express");
 const app = express();
 const port = 3000;
